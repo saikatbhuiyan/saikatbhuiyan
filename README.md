@@ -16,13 +16,13 @@
 <br />
 
 ### Languages and Tools:
-          Programming Languages 	: Python, JavaScript, C
+          Programming Languages   : Python, JavaScript, C
                Version Control    : Git
               Web Development     : HTML, CSS, Bootstrap, SASS, SQL
-                      Frameworks 	: Django, Django rest framework, React, AJAX, Node.js
-                      Databases 	: PostgreSQL, MySQL
+                      Frameworks  : Django, Django rest framework, React, AJAX, Node.js
+                      Databases   : PostgreSQL, MySQL, MongoDB
       	     Operating Systems    : Windows, MacOS
-					        Cloud server    : Digital Ocean        
+		  Cloud server    : Digital Ocean        
                  Tools & Others   : VS Code, PyCharm, Anaconda, Android Studio,
                                     Docker, Github, Bitbucket, Postman
 
