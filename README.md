@@ -23,8 +23,7 @@
                       Databases   : PostgreSQL, MySQL, MongoDB
       	     Operating Systems    : Windows, MacOS
 		  Cloud server    : Digital Ocean        
-                 Tools & Others   : VS Code, PyCharm, Anaconda, Android Studio,
-                                    Docker, Github, Bitbucket, Postman
+                 Tools & Others   : VS Code, PyCharm, Anaconda, Android Studio, Docker, Github, Bitbucket, Postman
 
 
 <br />
