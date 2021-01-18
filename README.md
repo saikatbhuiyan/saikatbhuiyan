@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!
 
-- 🔭 I’m currently working on Gigalogy Inc!
+- 🔭 I’m currently working on a Gigalogy!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
@@ -38,7 +38,8 @@
 <br />
 
 
-<hr>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=true&hide_border=true" />
+
 [website]: http://www.saikatbhuiyan.me/
 [twitter]: https://www.linkedin.com/in/bhuiyan/
 [linkedin]: https://www.linkedin.com/in/shahabuddinbhuiyan/
