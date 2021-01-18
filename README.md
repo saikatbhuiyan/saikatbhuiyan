@@ -38,8 +38,13 @@
 <br />
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=true&hide_border=true" />
 
+## GitHub Stats
+
+![William Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=&private_count=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbhuiyan&layout=compact)]()
+
+<hr>
 [website]: http://www.saikatbhuiyan.me/
 [twitter]: https://www.linkedin.com/in/bhuiyan/
 [linkedin]: https://www.linkedin.com/in/shahabuddinbhuiyan/
