@@ -38,12 +38,6 @@
 <br />
 
 
-
-## GitHub Stats
-
-![William Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=&private_count=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbhuiyan&layout=compact)]()
-
 <hr>
 [website]: http://www.saikatbhuiyan.me/
 [twitter]: https://www.linkedin.com/in/bhuiyan/
