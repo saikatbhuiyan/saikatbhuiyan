@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!
 
-- 🔭 I’m currently working on Gigalogy Inc!
+- 🔭 I’m currently working in Gigalogy Inc!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
