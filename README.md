@@ -37,9 +37,12 @@
 <br />
 <br />
 
+<div style="width: 100%;" align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbhuiyan&hide_border=true&theme=material-palenight" alt="saikatbhuiyan" />
+</div>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=true&hide_border=true" />
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbhuiyan&layout=compact" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbhuiyan&layout=compact&theme=material-palenight" />
 
 [website]: http://www.saikatbhuiyan.me/
 [twitter]: https://www.linkedin.com/in/bhuiyan/
