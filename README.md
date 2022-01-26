@@ -7,6 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="saikatbhuiyan" /> </p>
 ### Connect with me:
 
 [<img align="left" alt="saikatbhuiyan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
