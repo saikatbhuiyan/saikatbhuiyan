@@ -1,18 +1,21 @@
-### Hi there, I'm Shahabuddin Bhuiyan [(saikat)][website] 👋
+<!-- ### Hi there, I'm Shahabuddin Bhuiyan // [(saikat)][website] 👋 -->
+## 👋 G'day, I'm Md. Shahabuddin Bhuiyan⚡️
+<!-- ### Hi there, I'm Md. Shahabuddin Bhuiyan 
+## I'm a Software Developer! -->
 
-## I'm a Software Developer!
-
-- 🔭 I’m currently working in Gigalogy Ltd!
+<!-- - 🔭 I’m currently working in Gigalogy Ltd! -->
+- 🔭 I’m a Software Developer!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="saikatbhuiyan" /> </p>
+
 ### Connect with me:
 
 [<img align="left" alt="saikatbhuiyan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="saikatbhuiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="saikatbhuiyan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="saikatbhuiyan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
