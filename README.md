@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="saikatbhuiyan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="saikatbhuiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="saikatbhuiyan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="saikatbhuiyan | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="saikatbhuiyan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
@@ -70,6 +70,6 @@
 <table>
  
  
-[website]: http://www.saikatbhuiyan.me/
-[twitter]: https://www.linkedin.com/in/bhuiyan/
+<!-- [website]: http://www.saikatbhuiyan.me/ -->
+[twitter]: https://twitter.com/shaikot_bhuiyan
 [linkedin]: https://www.linkedin.com/in/shahabuddinbhuiyan/
