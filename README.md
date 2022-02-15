@@ -55,8 +55,13 @@
 <br />
 
 <div style="width: 100%;" align="center">
-
+    <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikatbhuiyan&theme=vue" alt="saikatbhuiyan" />
 </div>
+   
+<div style="width: 100%;" align="center">
+    <img  src="https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan&theme=minimal" alt="saikatbhuiyan" />
+</div>
+  
 
 
 <table width="100%">
