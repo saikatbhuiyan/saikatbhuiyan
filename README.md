@@ -55,24 +55,29 @@
 <br />
 <br />
 
-<div style="width: 100%;" align="center">
-    <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikatbhuiyan&theme=vue" alt="saikatbhuiyan" />
-</div>
-   
+
 <div style="width: 100%;" align="center">
     <img  src="https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan&theme=minimal" alt="saikatbhuiyan" />
 </div>
   
-
-
 <table width="100%">
   <tr>
     <td>
-     <img height="200em" align="left" alt="saikatbhuiyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbhuiyan&hide_border=true&theme=material-palenight" alt="saikatbhuiyan" />
     </td>
     <td> 
      <img height="200em" align="right" alt="saikatbhuiyan Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbhuiyan&layout=compact&theme=material-palenight&hide_border=true" />
     </td>
+  </tr>
+<table>
+
+<table width="100%">
+  <tr>
+    <td>
+        <img height="200em" align="left" alt="saikatbhuiyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
+    </td>
+    <td> 
+        <img align="right"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikatbhuiyan&theme=vue" alt="saikatbhuiyan" />
   </tr>
 <table>
   
