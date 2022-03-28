@@ -1,5 +1,5 @@
 <!-- ### Hi there, I'm Shahabuddin Bhuiyan // [(saikat)][website] 👋 -->
-## 👋 G'day, I'm Md. Shahabuddin Bhuiyan⚡️
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shahabuddin⚡️
 <!-- ### Hi there, I'm Md. Shahabuddin Bhuiyan 
 ## I'm a Software Developer! -->
 
@@ -58,6 +58,8 @@
 
 <div style="width: 100%;" align="center">
     <img  src="https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan&theme=minimal" alt="saikatbhuiyan" />
+<!--         <img  src="https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan&theme=minimal" alt="saikatbhuiyan" /> -->
+
 </div>
   
 <table width="100%">
