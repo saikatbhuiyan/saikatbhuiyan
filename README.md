@@ -62,7 +62,7 @@
 
 </div>
   
-<table width="100%">
+  <table width="100%">
   <tr>
     <td>
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbhuiyan&hide_border=true&theme=material-palenight" alt="saikatbhuiyan" />
@@ -83,10 +83,9 @@
   </tr>
 <table>
   
-<div style="width: 100%;" align="center">
+<!-- <div style="width: 100%;" align="center">
     <img  src="https://github-profile-trophy.vercel.app/?username=saikatbhuiyan&hide_border=true&theme=material-palenight" alt="saikatbhuiyan" />
-</div>
- 
+</div> -->
  
 <!-- [website]: http://www.saikatbhuiyan.me/ -->
 [twitter]: https://twitter.com/shaikot_bhuiyan
