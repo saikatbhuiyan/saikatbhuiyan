@@ -1,7 +1,7 @@
 <!-- ### Hi there, I'm Shahabuddin Bhuiyan // [(saikat)][website] 👋 -->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shahabuddin⚡️
-<!-- ### Hi there, I'm Md. Shahabuddin Bhuiyan 
-## I'm a Software Developer! -->
+<!-- ## Hey <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">, I'm Shahabuddin⚡️ -->
+### Hi there, I'm Md. Shahabuddin Bhuiyan 
+<!-- ## I'm a Software Developer! -->
 
 <!-- - 🔭 I’m currently working in Gigalogy Ltd! -->
 - 🔭 I’m a Software Developer!
