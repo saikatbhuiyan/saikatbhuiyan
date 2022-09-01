@@ -57,33 +57,10 @@
 
 ##
 
-<!-- <div style="width: 100%;" align="center">
-    <img  src="https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan" alt="saikatbhuiyan" />
-</div> -->
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan&theme=github&bg_color=0F182A)
  
  ## My GitHub Stats:
-<!-- <table>
-  <tr>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Saikat Stats" />
-    </td>
-    <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbhuiyan&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="Saikat Streak" />
-    </td>
-  </tr>
-</table> -->
 
-<!-- <table>
-  <tr>
-    <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikatbhuiyan&hide_border=true&theme=material-palenight" alt="saikatbhuiyan" />
-    </td>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatbhuiyan&layout=compact&theme=material-palenight&hide_border=true" alt="Saikat Streak" />
-    </td>
-  </tr>
-</table> -->
  
   <table width="100%">
   <tr>
@@ -99,20 +76,23 @@
 <table width="100%">
   <tr>
     <td>
-        <img height="200em" align="left" alt="saikatbhuiyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+        <img align="left" width="100%" alt="saikatbhuiyan Github Stats" src="https://github-readme-stats.vercel.app/api?username=saikatbhuiyan&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
     </td>
     <td> 
-        <img align="right"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikatbhuiyan&theme=tokyonight" alt="saikatbhuiyan" />
+        <img align="right" width="100%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikatbhuiyan&theme=tokyonight" alt="saikatbhuiyan" />
     </tr>
 <table>
-<!--  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikatbhuiyan&theme=tokyonight)
-  -->
-<!--  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikatbhuiyan&theme=github_dark)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikatbhuiyan&theme=github_dark) -->
-  
-<!-- <div style="width: 100%;" align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=saikatbhuiyan&hide_border=true&theme=material-palenight" alt="saikatbhuiyan" />
-</div> -->
+
+<table width="100%">
+  <tr>
+    <td>
+        <img  align="left" width="100%" alt="saikatbhuiyan Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikatbhuiyan&theme=tokyonight" />
+    </td>
+    <td>
+        <img align="right" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikatbhuiyan&theme=tokyonight" alt="saikatbhuiyan" />
+     </td>
+    </tr>
+<table>
  
 <!-- [website]: http://www.saikatbhuiyan.me/ -->
 [twitter]: https://twitter.com/shaikot_bhuiyan
