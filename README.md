@@ -57,12 +57,12 @@
 
 ##
 
-<div style="width: 100%;" align="center">
+<!-- <div style="width: 100%;" align="center">
     <img  src="https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan" alt="saikatbhuiyan" />
-<!--         <img  src="https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan&theme=minimal" alt="saikatbhuiyan" /> -->
-
-</div>
-  
+</div> -->
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saikatbhuiyan&theme=github&bg_color=0F182A)
+ 
+ 
   <table width="100%">
   <tr>
     <td>
