@@ -6,7 +6,7 @@
 <!-- - 🔭 I’m currently working in Gigalogy Ltd! -->
 - 🔭 I’m a Software Developer!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="saikatbhuiyan" /> </p>
